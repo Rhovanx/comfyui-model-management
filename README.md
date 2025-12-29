@@ -36,8 +36,8 @@ It scans your ComfyUI folder (and subfolders) for common model formats, shows re
 ## Screenshots
 
 ```md
-![Dark Mode](assets/screenshots/app-dark.png)
-![Light Mode](assets/screenshots/app-light.png)
+![Dark Mode](https://raw.githubusercontent.com/Rhovanx/comfyui-model-management/main/assets/screenshots/app-dark.png)
+![Light Mode](https://raw.githubusercontent.com/Rhovanx/comfyui-model-management/main/assets/screenshots/app-light.png)
 ```
 
 ## Quick Start
