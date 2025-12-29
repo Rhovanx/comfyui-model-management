@@ -1,3 +1,8 @@
+---
+title: ComfyUI Model Management
+description: PyQt6 desktop app to scan, sort, export, and delete ComfyUI model files
+---
+
 # ComfyUI Model Management
 
 A polished **Windows desktop GUI** built with **PyQt6** to scan, sort, export, and delete ComfyUI model files.
@@ -30,32 +35,33 @@ It scans your ComfyUI folder (and subfolders) for common model formats, shows re
 
 ## Screenshots
 
-Add screenshots here:
-
-- `assets/screenshots/app-dark.png`
-- `assets/screenshots/app-light.png`
-
-Then link them:
-
 ```md
 ![Dark Mode](assets/screenshots/app-dark.png)
 ![Light Mode](assets/screenshots/app-light.png)
 ```
 
-## Installation
+## Quick Start
 
-### 1) Create / activate a virtual environment (recommended)
+### Clone the repository
 
 ```bash
-python -m venv .venv
-.venv\Scripts\activate
+git clone https://github.com/Rhovanx/comfyui-model-management.git
+cd comfyui-model-management
 ```
 
-### 2) Install dependencies
+### (Optional) Use a virtual environment
 
-```bash
+```bash 
+python -m venv .venv
+.\.venv\Scripts\activate
+```
+
+### Install dependencies
+
+```bash 
 pip install -r requirements.txt
 ```
+
 
 ## Usage
 
